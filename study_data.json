@@ -1,0 +1,1068 @@
+{
+  "subjects": {
+    "maths": {
+      "name": "maths",
+      "goal_hours": 7,
+      "sessions": [
+        {
+          "subject": "maths",
+          "topic": "probability",
+          "duration": 60,
+          "date": "2026-01-29",
+          "notes": "basic in probability",
+          "timestamp": "2026-01-29T10:21:27.465089"
+        },
+        {
+          "subject": "maths",
+          "topic": "basic maths ",
+          "duration": 61,
+          "date": "2026-01-29",
+          "notes": "",
+          "timestamp": "2026-01-29T10:24:07.098368"
+        },
+        {
+          "subject": "maths",
+          "topic": "basic maths ",
+          "duration": 120,
+          "date": "2026-01-29",
+          "notes": "",
+          "timestamp": "2026-01-29T10:24:17.315948"
+        },
+        {
+          "subject": "maths",
+          "topic": "basic maths part-3",
+          "duration": 147,
+          "date": "2026-01-29",
+          "notes": "",
+          "timestamp": "2026-01-29T10:25:44.038763"
+        }
+      ],
+      "topics_covered": [
+        "basic maths ",
+        "probability",
+        "basic maths part-3"
+      ]
+    },
+    "Python Programming": {
+      "name": "Python Programming",
+      "goal_hours": 50,
+      "sessions": [
+        {
+          "subject": "Python Programming",
+          "topic": "Exception Handling",
+          "duration": 90,
+          "date": "2026-07-21",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:48:43.620481"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Data Structures - Lists",
+          "duration": 45,
+          "date": "2026-07-24",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:48:43.626193"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "File Operations",
+          "duration": 45,
+          "date": "2026-07-25",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.631289"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "OOP - Inheritance",
+          "duration": 60,
+          "date": "2026-08-03",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.661545"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "OOP - Inheritance",
+          "duration": 120,
+          "date": "2026-08-06",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:48:43.675812"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Exception Handling",
+          "duration": 60,
+          "date": "2026-08-10",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:48:43.695522"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "OOP - Classes",
+          "duration": 120,
+          "date": "2026-07-21",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:50:15.710391"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "OOP - Inheritance",
+          "duration": 90,
+          "date": "2026-07-25",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:50:15.713618"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Conditional Execution",
+          "duration": 45,
+          "date": "2026-07-26",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:50:15.727073"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Data Structures - Dictionaries",
+          "duration": 90,
+          "date": "2026-07-28",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.744170"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Conditional Execution",
+          "duration": 90,
+          "date": "2026-07-29",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:50:15.750467"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Loops and Iterations",
+          "duration": 30,
+          "date": "2026-08-02",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.769968"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "File Operations",
+          "duration": 120,
+          "date": "2026-08-03",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.773670"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Introduction to Python",
+          "duration": 90,
+          "date": "2026-08-13",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.822703"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Introduction to Python",
+          "duration": 45,
+          "date": "2026-08-16",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.859383"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Loops and Iterations",
+          "duration": 120,
+          "date": "2026-08-17",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:50:15.875546"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Data Structures - Dictionaries",
+          "duration": 120,
+          "date": "2026-07-24",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:51:37.679530"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "OOP - Classes",
+          "duration": 60,
+          "date": "2026-07-30",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:51:37.697351"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Data Structures - Lists",
+          "duration": 60,
+          "date": "2026-08-01",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.742668"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Introduction to Python",
+          "duration": 30,
+          "date": "2026-08-05",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:51:37.769391"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "OOP - Classes",
+          "duration": 45,
+          "date": "2026-08-16",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:51:37.875526"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "Loops and Iterations",
+          "duration": 45,
+          "date": "2026-08-18",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:51:37.896749"
+        },
+        {
+          "subject": "Python Programming",
+          "topic": "File Operations",
+          "duration": 120,
+          "date": "2026-08-19",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:51:37.904668"
+        }
+      ],
+      "topics_covered": [
+        "OOP - Inheritance",
+        "Introduction to Python",
+        "Conditional Execution",
+        "File Operations",
+        "Loops and Iterations",
+        "Data Structures - Lists",
+        "OOP - Classes",
+        "Exception Handling",
+        "Data Structures - Dictionaries"
+      ]
+    },
+    "Data Structures": {
+      "name": "Data Structures",
+      "goal_hours": 40,
+      "sessions": [
+        {
+          "subject": "Data Structures",
+          "topic": "Arrays",
+          "duration": 30,
+          "date": "2026-07-21",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:48:43.618949"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Queues",
+          "duration": 90,
+          "date": "2026-07-24",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.627892"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Trees",
+          "duration": 45,
+          "date": "2026-07-25",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:48:43.633258"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Trees",
+          "duration": 30,
+          "date": "2026-08-01",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:48:43.645783"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Linked Lists",
+          "duration": 120,
+          "date": "2026-08-02",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:48:43.652400"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Trees",
+          "duration": 30,
+          "date": "2026-08-03",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:48:43.659468"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Queues",
+          "duration": 60,
+          "date": "2026-08-07",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:48:43.678383"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Searching Algorithms",
+          "duration": 120,
+          "date": "2026-08-08",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:48:43.681065"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Graphs",
+          "duration": 30,
+          "date": "2026-08-13",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.700647"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Searching Algorithms",
+          "duration": 45,
+          "date": "2026-07-25",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:50:15.720468"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Linked Lists",
+          "duration": 60,
+          "date": "2026-08-04",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:50:15.783995"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Linked Lists",
+          "duration": 30,
+          "date": "2026-08-07",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.792749"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Graphs",
+          "duration": 45,
+          "date": "2026-08-13",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:50:15.826894"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Graphs",
+          "duration": 90,
+          "date": "2026-08-17",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:50:15.871129"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Sorting Algorithms",
+          "duration": 90,
+          "date": "2026-07-21",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.538771"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Queues",
+          "duration": 120,
+          "date": "2026-07-23",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.654666"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Arrays",
+          "duration": 90,
+          "date": "2026-07-31",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.712234"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Stacks",
+          "duration": 120,
+          "date": "2026-08-01",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:51:37.736995"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Arrays",
+          "duration": 90,
+          "date": "2026-08-02",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.748178"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Searching Algorithms",
+          "duration": 60,
+          "date": "2026-08-09",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:51:37.812814"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Graphs",
+          "duration": 90,
+          "date": "2026-08-10",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.826525"
+        },
+        {
+          "subject": "Data Structures",
+          "topic": "Queues",
+          "duration": 30,
+          "date": "2026-08-19",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:51:37.911042"
+        }
+      ],
+      "topics_covered": [
+        "Arrays",
+        "Trees",
+        "Queues",
+        "Sorting Algorithms",
+        "Graphs",
+        "Searching Algorithms",
+        "Linked Lists",
+        "Stacks"
+      ]
+    },
+    "Web Development": {
+      "name": "Web Development",
+      "goal_hours": 35,
+      "sessions": [
+        {
+          "subject": "Web Development",
+          "topic": "HTML Basics",
+          "duration": 90,
+          "date": "2026-07-27",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.635910"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "HTML Basics",
+          "duration": 60,
+          "date": "2026-08-02",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:48:43.650363"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "CSS Styling",
+          "duration": 90,
+          "date": "2026-08-06",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.672260"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 30,
+          "date": "2026-08-08",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:48:43.686289"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 45,
+          "date": "2026-08-12",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:48:43.698016"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "React Basics",
+          "duration": 30,
+          "date": "2026-08-18",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:48:43.712605"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "DOM Manipulation",
+          "duration": 90,
+          "date": "2026-07-28",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:50:15.737583"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "Backend with Flask",
+          "duration": 60,
+          "date": "2026-07-29",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.755283"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "Backend with Flask",
+          "duration": 30,
+          "date": "2026-08-02",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:50:15.762778"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 45,
+          "date": "2026-08-05",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.788912"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "REST APIs",
+          "duration": 30,
+          "date": "2026-08-14",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:50:15.839704"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "Backend with Flask",
+          "duration": 30,
+          "date": "2026-08-15",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:50:15.843896"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "REST APIs",
+          "duration": 90,
+          "date": "2026-08-19",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:50:15.880061"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "React Basics",
+          "duration": 30,
+          "date": "2026-07-22",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:51:37.612257"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 120,
+          "date": "2026-07-23",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:51:37.666432"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "Backend with Flask",
+          "duration": 30,
+          "date": "2026-07-26",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.689630"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 45,
+          "date": "2026-07-31",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.706315"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "REST APIs",
+          "duration": 120,
+          "date": "2026-08-01",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.729272"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 90,
+          "date": "2026-08-05",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:51:37.775087"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "Backend with Flask",
+          "duration": 45,
+          "date": "2026-08-06",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:51:37.780833"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "REST APIs",
+          "duration": 90,
+          "date": "2026-08-07",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:51:37.799290"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "DOM Manipulation",
+          "duration": 120,
+          "date": "2026-08-09",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:51:37.820400"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 60,
+          "date": "2026-08-10",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:51:37.832328"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "REST APIs",
+          "duration": 45,
+          "date": "2026-08-13",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:51:37.840642"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "REST APIs",
+          "duration": 90,
+          "date": "2026-08-15",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:51:37.861299"
+        },
+        {
+          "subject": "Web Development",
+          "topic": "JavaScript Fundamentals",
+          "duration": 60,
+          "date": "2026-08-16",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.881602"
+        }
+      ],
+      "topics_covered": [
+        "React Basics",
+        "JavaScript Fundamentals",
+        "REST APIs",
+        "DOM Manipulation",
+        "CSS Styling",
+        "HTML Basics",
+        "Backend with Flask"
+      ]
+    },
+    "Machine Learning": {
+      "name": "Machine Learning",
+      "goal_hours": 45,
+      "sessions": [
+        {
+          "subject": "Machine Learning",
+          "topic": "Neural Networks",
+          "duration": 90,
+          "date": "2026-07-25",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:48:43.629595"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Decision Trees",
+          "duration": 45,
+          "date": "2026-08-02",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:48:43.656523"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Linear Regression",
+          "duration": 45,
+          "date": "2026-08-05",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.663998"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Linear Regression",
+          "duration": 60,
+          "date": "2026-08-08",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:48:43.683720"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Decision Trees",
+          "duration": 90,
+          "date": "2026-08-10",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:48:43.692467"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "ML Introduction",
+          "duration": 120,
+          "date": "2026-07-21",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:50:15.703793"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Linear Regression",
+          "duration": 30,
+          "date": "2026-07-25",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:50:15.723648"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Logistic Regression",
+          "duration": 45,
+          "date": "2026-08-03",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.777311"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Neural Networks",
+          "duration": 45,
+          "date": "2026-08-07",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:50:15.803243"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Deep Learning Basics",
+          "duration": 45,
+          "date": "2026-08-08",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:50:15.811245"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Logistic Regression",
+          "duration": 45,
+          "date": "2026-08-12",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:50:15.818210"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Deep Learning Basics",
+          "duration": 120,
+          "date": "2026-08-19",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.888419"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Linear Regression",
+          "duration": 90,
+          "date": "2026-07-21",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.544708"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "ML Introduction",
+          "duration": 60,
+          "date": "2026-07-22",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:51:37.553701"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "ML Introduction",
+          "duration": 45,
+          "date": "2026-07-31",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:51:37.721087"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Deep Learning Basics",
+          "duration": 45,
+          "date": "2026-08-06",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.788098"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Neural Networks",
+          "duration": 30,
+          "date": "2026-08-09",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:51:37.807178"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Decision Trees",
+          "duration": 60,
+          "date": "2026-08-13",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.847320"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Linear Regression",
+          "duration": 60,
+          "date": "2026-08-15",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.855130"
+        },
+        {
+          "subject": "Machine Learning",
+          "topic": "Linear Regression",
+          "duration": 30,
+          "date": "2026-08-16",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:51:37.890628"
+        }
+      ],
+      "topics_covered": [
+        "ML Introduction",
+        "Logistic Regression",
+        "Linear Regression",
+        "Deep Learning Basics",
+        "Neural Networks",
+        "Decision Trees"
+      ]
+    },
+    "Database Systems": {
+      "name": "Database Systems",
+      "goal_hours": 30,
+      "sessions": [
+        {
+          "subject": "Database Systems",
+          "topic": "Database Design",
+          "duration": 45,
+          "date": "2026-07-22",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:48:43.623876"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Database Design",
+          "duration": 60,
+          "date": "2026-07-27",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:48:43.640134"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Joins and Queries",
+          "duration": 45,
+          "date": "2026-07-29",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:48:43.642932"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "NoSQL Databases",
+          "duration": 120,
+          "date": "2026-08-01",
+          "notes": "Challenging but interesting",
+          "timestamp": "2026-08-20T12:48:43.648139"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "SQL Basics",
+          "duration": 90,
+          "date": "2026-08-05",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:48:43.666286"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "SQL Basics",
+          "duration": 60,
+          "date": "2026-08-06",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:48:43.668823"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "NoSQL Databases",
+          "duration": 120,
+          "date": "2026-08-14",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:48:43.703699"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Database Design",
+          "duration": 60,
+          "date": "2026-08-16",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:48:43.709096"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "NoSQL Databases",
+          "duration": 120,
+          "date": "2026-08-18",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:48:43.717120"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Database Design",
+          "duration": 120,
+          "date": "2026-07-21",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:50:15.706582"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Transactions",
+          "duration": 45,
+          "date": "2026-07-26",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.730376"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Database Design",
+          "duration": 45,
+          "date": "2026-07-28",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:50:15.741041"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "SQL Basics",
+          "duration": 30,
+          "date": "2026-08-02",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.759196"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "NoSQL Databases",
+          "duration": 30,
+          "date": "2026-08-07",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.796597"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Normalization",
+          "duration": 60,
+          "date": "2026-08-08",
+          "notes": "Good progress today",
+          "timestamp": "2026-08-20T12:50:15.807373"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Normalization",
+          "duration": 60,
+          "date": "2026-08-14",
+          "notes": "Completed coding exercises",
+          "timestamp": "2026-08-20T12:50:15.834319"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "NoSQL Databases",
+          "duration": 120,
+          "date": "2026-08-15",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:50:15.850349"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Normalization",
+          "duration": 30,
+          "date": "2026-08-16",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.855056"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Transactions",
+          "duration": 45,
+          "date": "2026-08-17",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:50:15.863823"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Transactions",
+          "duration": 30,
+          "date": "2026-08-19",
+          "notes": "Practice exercises completed",
+          "timestamp": "2026-08-20T12:50:15.893041"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Transactions",
+          "duration": 90,
+          "date": "2026-07-22",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.559946"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Transactions",
+          "duration": 60,
+          "date": "2026-07-23",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.644473"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "SQL Basics",
+          "duration": 30,
+          "date": "2026-08-04",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.756191"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Database Design",
+          "duration": 60,
+          "date": "2026-08-05",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:51:37.761837"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "SQL Basics",
+          "duration": 60,
+          "date": "2026-08-07",
+          "notes": "Need to review this again",
+          "timestamp": "2026-08-20T12:51:37.793686"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "NoSQL Databases",
+          "duration": 60,
+          "date": "2026-08-15",
+          "notes": "Very productive session",
+          "timestamp": "2026-08-20T12:51:37.869184"
+        },
+        {
+          "subject": "Database Systems",
+          "topic": "Transactions",
+          "duration": 60,
+          "date": "2026-08-19",
+          "notes": "Watched tutorial videos",
+          "timestamp": "2026-08-20T12:51:37.918935"
+        }
+      ],
+      "topics_covered": [
+        "NoSQL Databases",
+        "Joins and Queries",
+        "Transactions",
+        "Database Design",
+        "SQL Basics",
+        "Normalization"
+      ]
+    }
+  },
+  "last_updated": "2026-08-20T12:51:37.919230"
+}
