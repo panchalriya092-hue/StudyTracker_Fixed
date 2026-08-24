@@ -1,0 +1,123 @@
+Subject,Topic,Duration (min),Date,Notes
+maths,probability,60,2026-01-29,basic in probability
+maths,basic maths ,61,2026-01-29,
+maths,basic maths ,120,2026-01-29,
+maths,basic maths part-3,147,2026-01-29,
+Python Programming,Exception Handling,90,2026-07-21,Very productive session
+Python Programming,Data Structures - Lists,45,2026-07-24,Watched tutorial videos
+Python Programming,File Operations,45,2026-07-25,Need to review this again
+Python Programming,OOP - Inheritance,60,2026-08-03,Need to review this again
+Python Programming,OOP - Inheritance,120,2026-08-06,Good progress today
+Python Programming,Exception Handling,60,2026-08-10,Challenging but interesting
+Python Programming,OOP - Classes,120,2026-07-21,Need to review this again
+Python Programming,OOP - Inheritance,90,2026-07-25,Challenging but interesting
+Python Programming,Conditional Execution,45,2026-07-26,Need to review this again
+Python Programming,Data Structures - Dictionaries,90,2026-07-28,Practice exercises completed
+Python Programming,Conditional Execution,90,2026-07-29,Watched tutorial videos
+Python Programming,Loops and Iterations,30,2026-08-02,Good progress today
+Python Programming,File Operations,120,2026-08-03,Practice exercises completed
+Python Programming,Introduction to Python,90,2026-08-13,Good progress today
+Python Programming,Introduction to Python,45,2026-08-16,Practice exercises completed
+Python Programming,Loops and Iterations,120,2026-08-17,Watched tutorial videos
+Python Programming,Data Structures - Dictionaries,120,2026-07-24,Good progress today
+Python Programming,OOP - Classes,60,2026-07-30,Challenging but interesting
+Python Programming,Data Structures - Lists,60,2026-08-01,Watched tutorial videos
+Python Programming,Introduction to Python,30,2026-08-05,Good progress today
+Python Programming,OOP - Classes,45,2026-08-16,Practice exercises completed
+Python Programming,Loops and Iterations,45,2026-08-18,Very productive session
+Python Programming,File Operations,120,2026-08-19,Good progress today
+Data Structures,Arrays,30,2026-07-21,Completed coding exercises
+Data Structures,Queues,90,2026-07-24,Need to review this again
+Data Structures,Trees,45,2026-07-25,Practice exercises completed
+Data Structures,Trees,30,2026-08-01,Very productive session
+Data Structures,Linked Lists,120,2026-08-02,Good progress today
+Data Structures,Trees,30,2026-08-03,Watched tutorial videos
+Data Structures,Queues,60,2026-08-07,Watched tutorial videos
+Data Structures,Searching Algorithms,120,2026-08-08,Practice exercises completed
+Data Structures,Graphs,30,2026-08-13,Need to review this again
+Data Structures,Searching Algorithms,45,2026-07-25,Completed coding exercises
+Data Structures,Linked Lists,60,2026-08-04,Completed coding exercises
+Data Structures,Linked Lists,30,2026-08-07,Practice exercises completed
+Data Structures,Graphs,45,2026-08-13,Very productive session
+Data Structures,Graphs,90,2026-08-17,Watched tutorial videos
+Data Structures,Sorting Algorithms,90,2026-07-21,Need to review this again
+Data Structures,Queues,120,2026-07-23,Need to review this again
+Data Structures,Arrays,90,2026-07-31,Watched tutorial videos
+Data Structures,Stacks,120,2026-08-01,Very productive session
+Data Structures,Arrays,90,2026-08-02,Need to review this again
+Data Structures,Searching Algorithms,60,2026-08-09,Completed coding exercises
+Data Structures,Graphs,90,2026-08-10,Watched tutorial videos
+Data Structures,Queues,30,2026-08-19,Challenging but interesting
+Web Development,HTML Basics,90,2026-07-27,Need to review this again
+Web Development,HTML Basics,60,2026-08-02,Completed coding exercises
+Web Development,CSS Styling,90,2026-08-06,Need to review this again
+Web Development,JavaScript Fundamentals,30,2026-08-08,Challenging but interesting
+Web Development,JavaScript Fundamentals,45,2026-08-12,Practice exercises completed
+Web Development,React Basics,30,2026-08-18,Challenging but interesting
+Web Development,DOM Manipulation,90,2026-07-28,Very productive session
+Web Development,Backend with Flask,60,2026-07-29,Good progress today
+Web Development,Backend with Flask,30,2026-08-02,Need to review this again
+Web Development,JavaScript Fundamentals,45,2026-08-05,Good progress today
+Web Development,REST APIs,30,2026-08-14,Challenging but interesting
+Web Development,Backend with Flask,30,2026-08-15,Completed coding exercises
+Web Development,REST APIs,90,2026-08-19,Watched tutorial videos
+Web Development,React Basics,30,2026-07-22,Completed coding exercises
+Web Development,JavaScript Fundamentals,120,2026-07-23,Completed coding exercises
+Web Development,Backend with Flask,30,2026-07-26,Need to review this again
+Web Development,JavaScript Fundamentals,45,2026-07-31,Need to review this again
+Web Development,REST APIs,120,2026-08-01,Need to review this again
+Web Development,JavaScript Fundamentals,90,2026-08-05,Completed coding exercises
+Web Development,Backend with Flask,45,2026-08-06,Completed coding exercises
+Web Development,REST APIs,90,2026-08-07,Practice exercises completed
+Web Development,DOM Manipulation,120,2026-08-09,Challenging but interesting
+Web Development,JavaScript Fundamentals,60,2026-08-10,Good progress today
+Web Development,REST APIs,45,2026-08-13,Completed coding exercises
+Web Development,REST APIs,90,2026-08-15,Very productive session
+Web Development,JavaScript Fundamentals,60,2026-08-16,Watched tutorial videos
+Machine Learning,Neural Networks,90,2026-07-25,Very productive session
+Machine Learning,Decision Trees,45,2026-08-02,Practice exercises completed
+Machine Learning,Linear Regression,45,2026-08-05,Need to review this again
+Machine Learning,Linear Regression,60,2026-08-08,Watched tutorial videos
+Machine Learning,Decision Trees,90,2026-08-10,Practice exercises completed
+Machine Learning,ML Introduction,120,2026-07-21,Completed coding exercises
+Machine Learning,Linear Regression,30,2026-07-25,Completed coding exercises
+Machine Learning,Logistic Regression,45,2026-08-03,Practice exercises completed
+Machine Learning,Neural Networks,45,2026-08-07,Challenging but interesting
+Machine Learning,Deep Learning Basics,45,2026-08-08,Need to review this again
+Machine Learning,Logistic Regression,45,2026-08-12,Watched tutorial videos
+Machine Learning,Deep Learning Basics,120,2026-08-19,Practice exercises completed
+Machine Learning,Linear Regression,90,2026-07-21,Need to review this again
+Machine Learning,ML Introduction,60,2026-07-22,Challenging but interesting
+Machine Learning,ML Introduction,45,2026-07-31,Good progress today
+Machine Learning,Deep Learning Basics,45,2026-08-06,Watched tutorial videos
+Machine Learning,Neural Networks,30,2026-08-09,Challenging but interesting
+Machine Learning,Decision Trees,60,2026-08-13,Watched tutorial videos
+Machine Learning,Linear Regression,60,2026-08-15,Watched tutorial videos
+Machine Learning,Linear Regression,30,2026-08-16,Very productive session
+Database Systems,Database Design,45,2026-07-22,Good progress today
+Database Systems,Database Design,60,2026-07-27,Challenging but interesting
+Database Systems,Joins and Queries,45,2026-07-29,Practice exercises completed
+Database Systems,NoSQL Databases,120,2026-08-01,Challenging but interesting
+Database Systems,SQL Basics,90,2026-08-05,Very productive session
+Database Systems,SQL Basics,60,2026-08-06,Completed coding exercises
+Database Systems,NoSQL Databases,120,2026-08-14,Need to review this again
+Database Systems,Database Design,60,2026-08-16,Completed coding exercises
+Database Systems,NoSQL Databases,120,2026-08-18,Watched tutorial videos
+Database Systems,Database Design,120,2026-07-21,Very productive session
+Database Systems,Transactions,45,2026-07-26,Good progress today
+Database Systems,Database Design,45,2026-07-28,Need to review this again
+Database Systems,SQL Basics,30,2026-08-02,Practice exercises completed
+Database Systems,NoSQL Databases,30,2026-08-07,Good progress today
+Database Systems,Normalization,60,2026-08-08,Good progress today
+Database Systems,Normalization,60,2026-08-14,Completed coding exercises
+Database Systems,NoSQL Databases,120,2026-08-15,Watched tutorial videos
+Database Systems,Normalization,30,2026-08-16,Practice exercises completed
+Database Systems,Transactions,45,2026-08-17,Very productive session
+Database Systems,Transactions,30,2026-08-19,Practice exercises completed
+Database Systems,Transactions,90,2026-07-22,Need to review this again
+Database Systems,Transactions,60,2026-07-23,Need to review this again
+Database Systems,SQL Basics,30,2026-08-04,Need to review this again
+Database Systems,Database Design,60,2026-08-05,Very productive session
+Database Systems,SQL Basics,60,2026-08-07,Need to review this again
+Database Systems,NoSQL Databases,60,2026-08-15,Very productive session
+Database Systems,Transactions,60,2026-08-19,Watched tutorial videos
